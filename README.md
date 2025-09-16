@@ -16,6 +16,14 @@ or <i>"Show the net profit in 2022"</i>. This project is developed as part of th
 </p>
 
 <hr>
+<h2>🔗 Live Demo</h2>
+<p>
+Try the app and view its code on GitHub: 
+<a href="https://financial-document-q-a-assistant-git-lvbp9tw3du2ygpgpgvkxfk.streamlit.app/" target="_blank">
+Click here to open the demo
+</a>
+</p>
+
 
 <h2>🔗 Demo (Local)</h2>
 <p>Run locally on your machine using Streamlit. No internet deployment required.</p>
