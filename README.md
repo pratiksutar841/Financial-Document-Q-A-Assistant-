@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>📊 Financial Document Q&A Assistant</title>
+
 </head>
 <body>
 
@@ -19,7 +19,7 @@ or <i>"Show the net profit in 2022"</i>. This project is developed as part of th
 
 <h2>🔗 Demo (Local)</h2>
 <p>Run locally on your machine using Streamlit. No internet deployment required.</p>
-<img src="images/demo.png" alt="Financial Q&A App Demo" style="width:80%; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);">
+<img src="https://github.com/pratiksutar841/Financial-Document-Q-A-Assistant-/blob/01f14c9715a690e67a533c959a1bf2d16d349ff2/Financial-Output-Photo.png" alt="Financial Q&A App Demo" style="width:80%; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);">
 
 <hr>
 
