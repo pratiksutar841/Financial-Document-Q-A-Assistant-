@@ -25,8 +25,6 @@ Click here to open the demo
 </p>
 
 
-<h2>🔗 Demo (Local)</h2>
-<p>Run locally on your machine using Streamlit. No internet deployment required.</p>
 <img src="https://github.com/pratiksutar841/Financial-Document-Q-A-Assistant-/blob/01f14c9715a690e67a533c959a1bf2d16d349ff2/Financial-Output-Photo.png" alt="Financial Q&A App Demo" style="width:80%; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);">
 
 <hr>
